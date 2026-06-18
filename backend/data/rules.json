@@ -1,0 +1,25 @@
+{
+  "noiseNormalization": {
+    "budgettt": "budget",
+    "budgeting": "budget",
+    "announceing": "announcing"
+  },
+  "romanUrduMapping": {
+    "krdia": "kar diya",
+    "kardia": "kar diya",
+    "kia": "kya",
+    "q": "kyun",
+    "nai": "nahi",
+    "plz": "please",
+    "sndh": "Sindh",
+    "govt": "Govt",
+    "tm": "tum",
+    "thik": "theek"
+  },
+  "keywords": [
+    "Sindh Govt",
+    "budget",
+    "Sindh Budget 2026",
+    "announce"
+  ]
+}

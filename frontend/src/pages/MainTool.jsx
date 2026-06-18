@@ -14,7 +14,7 @@ import TransitionLog from '../components/TransitionLog';
 import NormalizationPanel from '../components/NormalizationPanel';
 import LLMMeaningPanel from '../components/LLMMeaningPanel';
 
-const API_BASE = 'http://localhost:3001/api';
+const API_BASE = import.meta.env.PROD ? '/_/backend/api' : 'http://localhost:3001/api';
 const DEFAULT_TEXT = 'SndhGovt ne budgettt announce krdia!!! #SindhBudget2026';
 
 export default function MainTool() {
